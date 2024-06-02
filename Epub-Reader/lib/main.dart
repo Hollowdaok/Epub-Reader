@@ -75,7 +75,6 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
 class EPUBViewer extends StatefulWidget {
   final VoidCallback toggleTheme;
   final bool nightMode;
